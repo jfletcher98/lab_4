@@ -1,0 +1,16 @@
+/* Add any css you want to use for you website here */
+
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center {
+    text-align: center;
+}
+
+.object-center {
+    margin: auto;
+    width: 50%;
+}
